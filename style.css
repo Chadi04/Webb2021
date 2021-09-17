@@ -1,0 +1,19 @@
+h1 {
+  margin: auto;
+  color: white;
+  background-color: black;
+  font-size: 1.7rem;
+  font-family: verdana;
+}
+
+.foo {
+  font-family: serif;
+  font-style: italic;
+  background-color: lightgrey;
+  font-size: 1.2rem;
+  font-family: verdana;
+}
+
+body {
+  background-color: lightgrey
+}
